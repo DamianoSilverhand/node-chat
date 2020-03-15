@@ -1,7 +1,7 @@
 {
   "name": "chat",
   "version": "1.0.0",
-  "description": "A Chat web application that can be used by members of a team on the same network.",
+  "description": "A real-time super chat with socket .io",  
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
